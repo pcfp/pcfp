@@ -6,7 +6,7 @@ I am a software engineer recently graduated from Harvard University. I am passio
 - 👯 I’m looking for new opportunities to collaborate with awesome engineers to solve problems that create maximum business and social impact.
 
 - 🔭 Here are some interesting projects I worked on:
-    - [Health-Mart - Online grocery delivery](https://github.com/Health-Mart)
+    - [Health-Mart - Online grocery delivery](https://github.com/Health-Mart/healthy-food-inc)
     - [Say Hello - Language learning app](https://github.com/pcfp/say-hello-app)
     - [Truesso - Backend API micro-service](https://github.com/Truesso/products) 
     - [Atlas Store - E-commerce product page](https://github.com/Atlas-Store)
