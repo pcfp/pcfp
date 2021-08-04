@@ -1,9 +1,9 @@
 ### Hi there, I am Peter. 👋
 
-I am a software engineer recently graduated from Harvard University. I am passionate about building interactive and user-centered websites to scale both individually and collaboratively. I am always learning and mastering new technologies to better the software design, development, and testing processes.
+I am a software engineer. I am passionate about building interactive and user-centered websites to scale both individually and collaboratively. I am always learning and mastering new technologies to better the software design, development, and testing processes.
 
 
-- 👯 I’m looking for new opportunities to collaborate with awesome engineers to solve problems that create maximum business and social impact.
+- 👯 I currently work at Snackpass.
 
 - 🔭 Here are some interesting projects I worked on:
     - [Health-Mart - Online grocery delivery](https://github.com/Health-Mart/healthy-food-inc)
