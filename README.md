@@ -1,6 +1,6 @@
 ### Hi there, I am Peter. 👋
 
-I am a former engineer turned product manager. I am passionate about building interactive and user-centered websites to scale collaboratively. I am always learning and mastering new technologies to better the development processes.
+I am a product engineer, passionate about building interactive and user-centered websites to scale collaboratively. I am always learning and mastering new technologies to improve the development processes.
 
 
 - 👯 I currently work at Snackpass.
